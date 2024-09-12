@@ -1,1 +1,2 @@
 # Traffic-Intersection-Simulator-Realistic-Traffic-Flow-and-Safe-Maneuvers
+Developed a traffic intersection simulator in C++ that accurately simulated the movement of vehicles at an intersection. The simulation incorporated traffic lights and enforced traffic laws to ensure the realistic flow of traffic. Implemented a user interface where the simulation could be controlled by pressing the "Enter" button, allowing cars from four sides to move one square at a time, mimicking a real-life intersection scenario.
