@@ -1,0 +1,10 @@
+Justin Barrera
+	VehicleBase.cpp
+	VehicleBase.h
+	Lanes.cpp
+	Lanes.h
+For the most part I contributed to these files a bit more than my partner and the rest of the other files he had more contribution on or on others we equally shared contribution.
+	
+a) My partner was Kevin Chanchavac
+b) Did Fair share of work
+c) I chose this option because we split work almost evenly each time we met and we were able to complete this assignment in a timely manner.
